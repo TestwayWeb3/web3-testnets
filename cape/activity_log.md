@@ -1,0 +1,6 @@
+# Activity Log for Cape
+
+## Update on 2025-03-25 20:23:09
+- Added new activity log entry.
+- Details: Working on cape project, updated documentation.
+
