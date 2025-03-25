@@ -11,12 +11,12 @@ My contributions to various blockchain testnets
 - **VSSwap**: Participated in VSSwap activities.
 - **Cega**: Participated in Cega activities.
 - **Fluid Tokens**: Participated in Fluid Tokens activities.
-- **Optimism Launcher**: Participated in Optimism Launcher activities.
+- **Optimism**: Participated in Optimism activities.
 - **Quantum**: Participated in Quantum activities.
 - **SafeStake**: Participated in SafeStake activities.
 - **Sisu**: Participated in Sisu activities.
 - **Starfish**: Participated in Starfish activities.
-- **Stellar Quest**: Participated in Stellar Quest activities.
+- **Stellar**: Participated in Stellar activities.
 - **Sui**: Participated in Sui activities.
 - **Synswap**: Participated in Synswap activities.
 - **Tidefi**: Participated in Tidefi activities.
